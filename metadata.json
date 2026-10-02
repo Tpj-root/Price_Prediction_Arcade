@@ -1,0 +1,6 @@
+{
+  "name": "CSV Price Prediction Arcade",
+  "description": "Arcade financial price prediction shooter converted from Python Pygame for GitHub Pages with present-point tracking, audio synthesizer, and CSV upload.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
